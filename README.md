@@ -6,4 +6,4 @@
 
 ## 보유 기술 및 환경
 - C, C++, Python, Java
-- Linux(CentOS/Ubuntu), mbed OS, Git, PyCharm, Android Studio
+- Linux(Ubuntu), Git, PyCharm, Android Studio
