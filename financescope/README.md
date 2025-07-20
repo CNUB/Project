@@ -7,8 +7,7 @@
 Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템을 위한 다양한 기술과 아키텍처 패턴을 적용했습니다.
 
 
-<video src="financescope-demo.mp4" controls width="600"></video>
-
+[![시연 영상 보기](https://img.youtube.com/vi/TUpKqTXrDwk/0.jpg)](https://www.youtube.com/watch?v=TUpKqTXrDwk)
 
 ## 주요 기능
 
