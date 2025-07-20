@@ -9,7 +9,7 @@ Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템
 
 [![시연 영상 보기](https://img.youtube.com/vi/TUpKqTXrDwk/0.jpg)](https://www.youtube.com/watch?v=TUpKqTXrDwk)
 
-클릭 시 데모 영상으로 이동
+> 클릭 시 데모 영상으로 이동
 
 ## 주요 기능
 
