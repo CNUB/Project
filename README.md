@@ -1,16 +1,16 @@
 ## 👋 Introduce My Self
 
-I'm a software developer from Korea with experience in C, C++, Python, Java, and JavaScript.  
-💻 I’m currently learning new languages and frameworks.  
-🧠 I love both front-end and back-end development.  
-📬 You can reach me at [qkqkhih55@gmail.com](mailto:qkqkhih55@gmail.com)
+I'm a software developer currently studying at Silla University (신라대학교), majoring in Computer Engineering.  
+💡 I'm passionate about **software development** and **embedded systems**.  
+🔧 I enjoy solving real-world problems with technology and continuously improve myself through hands-on projects.  
+📬 You can reach me at [tactak@naver.com](mailto:tactak@naver.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CNUB&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNUB&layout=compact&theme=radical)
 
 ---
 
@@ -20,7 +20,6 @@ I'm a software developer from Korea with experience in C, C++, Python, Java, and
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -41,12 +40,22 @@ I'm a software developer from Korea with experience in C, C++, Python, Java, and
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/qkqkhih55@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qkqkhih55@gmail.com)
-[![Instagram](https://img.shields.io/badge/@pkwhey_00-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_profile)
+[![Gmail](https://img.shields.io/badge/tactak@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:tactak@naver.com)
+[![GitHub](https://img.shields.io/badge/@CNUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/CNUB)
 
 ---
 
 ## 🔨 Projects
 
-- [**Project 1** - 실시간 객체 탐지 웹페이지](https://github.com/your-id/your-project1)
-- [**Project 2** - KakaoTalk Chat Bot](https://github.com/your-id/your-project2)
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| 💰 **FinanceScope** | 금융 뉴스 데이터를 수집하고 분석하는 프로젝트 | [🔗 바로가기](./financescope) |
+| 🎯 **Realtime Object Detection** | YOLO 기반 실시간 객체 탐지 안드로이드 앱 구현 | [🔗 바로가기](./Realtime%20object%20detection) |
+| 🔐 **Smart DoorLock** | IoT 기반 스마트 도어락 시스템 구현 | [🔗 바로가기](./Smart%20DoorLock) |
+
+---
+
+## 📝 Note
+
+> This repository contains personal projects and learning outcomes.  
+> Each project directory includes a detailed `README.md` for setup and execution instructions.
