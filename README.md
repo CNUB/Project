@@ -8,7 +8,6 @@
 
 📬 연락처: tactak@naver.com
 
-> Ju An Kim 
 ---
 
 ## 📊 GitHub Stats
