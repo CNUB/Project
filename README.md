@@ -1,9 +1,9 @@
 ## 👋 Introduce My Self
 
-I'm a software developer currently studying at Silla University (신라대학교), majoring in Computer Engineering.  
-💡 I'm passionate about **software development** and **embedded systems**.  
-🔧 I enjoy solving real-world problems with technology and continuously improve myself through hands-on projects.  
-📬 You can reach me at [tactak@naver.com](mailto:tactak@naver.com)
+저는 신라대학교 컴퓨터공학과에 재학 중인 소프트웨어 개발자 지망생입니다.
+💡 소프트웨어 개발과 임베디드 시스템에 깊은 관심을 가지고 있습니다.
+🔧 기술을 통해 실생활의 문제를 해결하는 데에 흥미를 느끼며, 다양한 실습 프로젝트를 통해 꾸준히 성장하고 있습니다.
+📬 연락처: tactak@naver.com
 
 ---
 
