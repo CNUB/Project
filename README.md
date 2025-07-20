@@ -7,10 +7,10 @@
 
 ## 프로젝트 LIST
 
-| 프로젝트명 | 설명 | 주요 기술 | 링크 |
-|------------|------|-----------|------|
-| **Realtime Object Detection** | 실시간 객체 탐지 모델 구현 | Python, OpenCV, YOLO | [🔗 바로가기](./Realtime%20object%20detection) |
-| **Smart DoorLock** | IoT 기반 스마트 도어락 시스템 | C++, Arduino, Firebase | [🔗 바로가기](./Smart%20DoorLock) |
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| **Realtime Object Detection** | 실시간 객체 탐지 모델 구현 | [🔗 바로가기](./Realtime%20object%20detection) |
+| **Smart DoorLock** | IoT 기반 스마트 도어락 시스템 | [🔗 바로가기](./Smart%20DoorLock) |
 | **그 외 프로젝트** | 추가 예정 | - | - |
 
 ---
