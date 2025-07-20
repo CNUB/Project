@@ -8,6 +8,7 @@
 
 📬 연락처: tactak@naver.com
 
+> Kim Ju An 
 ---
 
 ## 📊 GitHub Stats
@@ -60,5 +61,5 @@
 
 ## 📝 Note
 
-> This repository contains personal projects and learning outcomes.  
-> Each project directory includes a detailed `README.md` for setup and execution instructions.
+> 이 레포지토리는 **개인 프로젝트 및 학습 결과물**을 정리한 공간입니다.  
+> 각 프로젝트에는 별도 `README.md`를 통해 실행 방법, 주요 코드 설명 등을 제공합니다
