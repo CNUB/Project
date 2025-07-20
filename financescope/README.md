@@ -1,12 +1,16 @@
 # FinanceScope - 금융 뉴스 분석 및 관리 플랫폼
 
-## 📖 프로젝트 소개
+## 프로젝트 소개
 
 **FinanceScope**는 금융 뉴스 데이터를 수집하고 분석하여 사용자에게 제공하는 백엔드 서비스입니다. 이 프로젝트는 최신 금융 동향을 파악하고, 뉴스에 담긴 시장의 감성을 분석하며, 관련 경제 지표를 시각화하는 것을 목표로 합니다.
 
 Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템을 위한 다양한 기술과 아키텍처 패턴을 적용했습니다.
 
-## ✨ 주요 기능
+
+<video src="./financescope-demo.mp4" controls width="600"></video>
+
+
+## 주요 기능
 
 - **사용자 인증**: JWT(JSON Web Token)를 이용한 안전한 회원가입 및 로그인 기능을 제공합니다.
 - **뉴스 크롤링**: 지정된 금융 뉴스 사이트에서 기사를 수집합니다. (*현재는 실제 크롤링 대신 더미 데이터를 사용하고 있습니다.*)
@@ -16,7 +20,7 @@ Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템
 - **뉴스 클러스터링**: 유사한 주제의 뉴스 기사를 그룹화하여 보여줍니다.
 - **API 문서화**: Swagger UI를 통해 API 명세를 실시간으로 확인하고 테스트할 수 있습니다.
 
-## 🛠️ 기술 스택
+## 🛠기술 스택
 
 - **Backend**: Java 21, Spring Boot 3, Spring Security
 - **Database**: MySQL
@@ -27,7 +31,7 @@ Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템
 - **Build Tool**: Gradle
 - **API Documentation**: SpringDoc (Swagger UI)
 
-## 🚀 시작하기
+## 시작하기
 
 ### 1. 실행 환경
 
@@ -79,7 +83,7 @@ Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템
 애플리케이션 실행 후, 아래 주소로 접속하여 모든 API 엔드포인트를 확인하고 테스트할 수 있습니다.
 - **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-## 📌 프로젝트 현황 및 개선점
+## 프로젝트 현황 및 개선점
 
 - **크롤링 기능**: 현재 [CrawlService](cci:2://file:///c:/Users/vjwmf/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/Back/financescope/src/main/java/com/financescope/financescope/service/CrawlService.java:16:0-118:1)는 실제 웹 크롤링을 수행하는 대신, 시뮬레이션을 위한 더미 데이터를 반환하고 있습니다. 향후 실제 크롤링 로직을 구현하여 다양한 뉴스 소스에서 데이터를 수집하는 기능이 필요합니다.
 - **외부 API 연동**: 뉴스 요약 및 감성 분석 기능은 외부 AI 서비스를 호출하는 구조로 설계되었습니다. 실제 서비스 연동을 통해 기능을 완성할 수 있습니다.
