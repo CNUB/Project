@@ -29,8 +29,10 @@
 ## 🛠 Tools & IDEs
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-303030?style=flat&logo=github&logoColor=white)
+
 
 ---
 
