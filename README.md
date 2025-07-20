@@ -1,38 +1,52 @@
-# Status of Completed Works
+## 👋 Introduce My Self
 
-신라대학교 컴퓨터공학과 재학 중이며, 소프트웨어 개발 및 임베디드 시스템 분야에 관심이 많은 개발자 지망생입니다.  
-기술을 통해 실생활 문제를 해결하는 데에 흥미를 느끼며, 다양한 프로젝트를 통해 실력을 키워가고 있습니다.
-
----
-
-## 프로젝트 LIST
-
-| 프로젝트명 | 설명 | 링크 |
-|------------|------|------|
-| **FinanceScope** | 금융 뉴스 데이터를 수집하고 분석 | [🔗 바로가기](./financescope) |
-| **Realtime Object Detection** | 실시간 객체 탐지 모델 구현 | [🔗 바로가기](./Realtime%20object%20detection) |
-| **Smart DoorLock** | IoT 기반 스마트 도어락 시스템 | [🔗 바로가기](./Smart%20DoorLock) |
-| **그 외 프로젝트** | 추가 예정 | - | - |
+I'm a software developer from Korea with experience in C, C++, Python, Java, and JavaScript.  
+💻 I’m currently learning new languages and frameworks.  
+🧠 I love both front-end and back-end development.  
+📬 You can reach me at [qkqkhih55@gmail.com](mailto:qkqkhih55@gmail.com)
 
 ---
 
-## 보유 기술 및 개발 환경
+## 📊 GitHub Stats
 
-- **프로그래밍 언어**: C, C++, Python, Java  
-- **개발 환경/툴**:  
-  - 운영체제: Linux (Ubuntu)  
-  - 도구: Git, PyCharm, Android Studio
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
 
 ---
 
-## 연락처
+## 💻 Programming Skills
 
-- Email: tactak@naver.com 
-- GitHub: [https://github.com/CNUB](https://github.com/CNUB)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 기타
+## 🛠 Tools & IDEs
 
-> 해당 레포지토리는 개인 프로젝트 및 학습 결과물을 정리한 공간입니다.  
-> 각 프로젝트별로 실행 방법, 주요 코드 설명 등을 포함한 README가 별도로 포함되어 있습니다.
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🐧 Operation Systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/qkqkhih55@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qkqkhih55@gmail.com)
+[![Instagram](https://img.shields.io/badge/@pkwhey_00-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your_profile)
+
+---
+
+## 🔨 Projects
+
+- [**Project 1** - 실시간 객체 탐지 웹페이지](https://github.com/your-id/your-project1)
+- [**Project 2** - KakaoTalk Chat Bot](https://github.com/your-id/your-project2)
