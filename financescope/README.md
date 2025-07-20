@@ -7,7 +7,7 @@
 Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템을 위한 다양한 기술과 아키텍처 패턴을 적용했습니다.
 
 
-<video src="./financescope-demo.mp4" controls width="600"></video>
+<video src="financescope-demo.mp4" controls width="600"></video>
 
 
 ## 주요 기능
@@ -20,7 +20,7 @@ Spring Boot를 기반으로 구축되었으며, 안정적인 백엔드 시스템
 - **뉴스 클러스터링**: 유사한 주제의 뉴스 기사를 그룹화하여 보여줍니다.
 - **API 문서화**: Swagger UI를 통해 API 명세를 실시간으로 확인하고 테스트할 수 있습니다.
 
-## 🛠기술 스택
+## 기술 스택
 
 - **Backend**: Java 21, Spring Boot 3, Spring Security
 - **Database**: MySQL
